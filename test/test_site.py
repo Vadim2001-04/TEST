@@ -1,5 +1,3 @@
-from itertools import product
-
 from selenium.webdriver.common.by import By
 import time
 from pages.product import ProductPage
